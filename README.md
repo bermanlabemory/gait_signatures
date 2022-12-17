@@ -29,4 +29,4 @@
 #### **odedp5.py**: order 5 ODE integrator with special facilities for hybrid systems 
 #### **sde.py**: order 3 Stratonovic SDE integrator 
 #### **fastode**: aggressively optimized version of the odedp5 integrator for very fast operation. Requires inner ODE function to be in C  
-#### **util.py** and shai_util.py: helper functions 
+#### **util.py**, shaiutil.py and shai_util.py: helper functions 
