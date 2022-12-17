@@ -1,14 +1,14 @@
 # gait_signatures
 
-#### This is code related to the paper: Taniel S. Winner, Michael C. Rosenberg, Trisha M. Kesar, Lena H. Ting, Gordon J. Berman. Discovering individual-specific ‘gait signatures’ from data-driven models of neuromechanical dynamics. ELife. 2022; TBD. 
+### This is code related to the paper: Taniel S. Winner, Michael C. Rosenberg, Trisha M. Kesar, Lena H. Ting, Gordon J. Berman. Discovering individual-specific ‘gait signatures’ from data-driven models of neuromechanical dynamics. ELife. 2022; TBD. 
 
 ## Data
 
 #### PareticvsNonP_RNNData.csv: Data set containing sagittal plane joint angles of 5 able-bodied and 7 stroke survivors as they walked on a treadmill at 6 different speeds each for 15 seconds. (72 trials, 1500 sample/trial). The dataset was collected at Emory Rehab Hospital Motion Analyses Lab (PI Kesar). 
 
-#### Subjectslabels.csv: Data set containing a list of subject identifiers corresponding to each trial. 
+#### **Subjectslabels.csv**: Data set containing a list of subject identifiers corresponding to each trial. 
 
-#### Speedlabels.mat: Data set containing a list of treadmill speeds (cm/s) corresponding to each trial. 
+#### **Speedlabels.mat**: Data set containing a list of treadmill speeds (cm/s) corresponding to each trial. 
 
 
 ## Python Code  
