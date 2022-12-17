@@ -1,6 +1,6 @@
 # gait_signatures
 
-#### This is code related to the paper: Taniel S. Winner, Michael C. Rosenberg, Trisha M. Kesar, Lena H. Ting, Gordon J. Berman. Discovering individual-specific ‘gait signatures’ from data-driven models of neuromechanical dynamics. ELife. 2022; TBD. 
+#### This is code related to the paper: Taniel S. Winner, Michael C. Rosenberg, Trisha M. Kesar, Lena H. Ting, Gordon J. Berman. Discovering individual-specific ‘gait signatures’ from data-driven models of neuromechanical dynamics. Journal. 202X; TBD. 
 
 ## Data
 
