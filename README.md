@@ -16,8 +16,6 @@
 #### **Gait Signatures Script 1: Train Model Architectures.ipynb** 
 #### **Gait Signatures Script 2: Extract Internal Parameters.ipynb** 
 #### **Gait Signatures Script 3: Generate Gait Signatures.ipynb** 
-
-Scripts for hyperparameter model selection - [supplementary figure 1]:
 #### **Gait Signatures Script 4: Short-TimeSelf-Driven Signatures.ipynb** 
 #### **Gait Signatures Script 5: Compute Gait Signature Alignment.ipynb** 
 #### **Gait Signatures Script 6: Compare Gait Signature Alignment.ipynb** 
