@@ -16,6 +16,11 @@
 #### **Gait Signatures Script 1: Train Model Architectures.ipynb** 
 #### **Gait Signatures Script 2: Extract Internal Parameters.ipynb** 
 #### **Gait Signatures Script 3: Generate Gait Signatures.ipynb** 
+#### **Gait Signatures Script 4: Short-TimeSelf-Driven Signatures.ipynb** 
+#### **Gait Signatures Script 5: Compute Gait Signature Alignment.ipynb** 
+#### **Gait Signatures Script 6: Compare Gait Signature Alignment.ipynb** 
+#### **Gait Signatures Script 7: Save Hyperparameter Results Single Folder.ipynb** 
+
 
 #### Code was executed on Google Colab. The specific Collab software versions tested are Python 3.8.16 and Tensorflow 2.9.2. on Google Colab’s standard GPU with high-RAM runtime (54.8 gigabytes). 
 
