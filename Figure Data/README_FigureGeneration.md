@@ -1,19 +1,23 @@
 Data for Manuscript Figure Generation
 
 Figure 1
+
 •	GaitSignatures_6D_PCs.mat
 
 Figure 2
+
 •	GaitSignatures_6D_PCs.mat
 •	GaitSignatures_gaitphases.mat
 •	GaitSignatures_subjectlist.mat *
 •	GaitSignatures_speedlist.mat
 
 Figure 3
+
 •	GaitSignatures_6D_PCs.mat
 •	GaitSignatures_EuclDistance_toABcentroid.mat
 
 Figure 4
+
 •	GaitSignatures_6D_PCs.mat
 •	GaitSignatures_PhaseAveraged_ExperimentalKinematics.mat
 •	AB07_PC1_Reconstruct.mat
@@ -21,11 +25,13 @@ Figure 4
 •	AB07_PC3_Reconstruct.mat
 
 Figure 5
+
 •	GaitSignatures_PhaseAveraged_ExperimentalKinematics.mat
 •	ALL_MiddleSpeed1_Reconstructions.mat
 •	ALL_MiddleSpeed2_Reconstructions.mat
 
 Figure 6
+
 •	GaitSignatures_PhaseAveraged_ExperimentalKinematics.mat
 •	AB07_ST09_PC1swap_Reconstruct.mat
 •	AB07_ST09_PC3swap_Reconstruct.mat
@@ -33,6 +39,7 @@ Figure 6
 •	ST08_AB07_PC5swap_Reconstruct.mat
 
 Figure 7 
+
 •	AB_ExternalDriven_Kinematics.mat
 •	AB_lastcycle_SelfDriven.mat
 •	AB_EuclideanDist.mat
@@ -47,6 +54,7 @@ Figure 7
 •	Stroke_SelfDriven_Cycle_Duration.mat
 
 S1 Figure
+
 •	Read: README_HyperparameterSelection.txt in the ‘csv files’ folder
 •	TrainVal.csv
 •	GaitSigAlignment_LongTime.csv
@@ -56,6 +64,7 @@ S2 Figure
 •	GaitSignatures_TrainingLossOverEpochs.mat
 
 S3 Figure
+
 •	LOOCV_GeneralizationLoss.mat
 •	LOOCV_ValidationLoss.mat
 •	LOOCV_TrainingLoss.mat
@@ -66,9 +75,11 @@ S3 Figure
 •	ALL_self_PhaseAvgShift.mat
 
 S4 Figure
+
 •	GaitSignatures_PCVarianceExplained.mat
 
 S5 Figure
+
 •	SVM_raw_kin_GaitGroup.mat
 •	SVM_raw_kin_indiv.mat
 •	SVM_kinandvel_GaitGroup.mat
@@ -79,6 +90,7 @@ S5 Figure
 •	SVM_dicrete_indiv.mat
 
 S6 Figure
+
 •	GaitSignatures_SelfDrivenR2.mat
 •	GaitSignatures_ShuffledArbitraryAveragedR2.mat
 •	GaitSignatures_EuclDistance_toABcentroid.mat
