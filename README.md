@@ -13,9 +13,9 @@
 
 ## Python Code  
 
-### Please ensure that you are using the specific versions of tensorflow and keras below by running the following commands in script
-### !pip install keras==2.15.0
-### tensorflow==2.15.0
+### **Please ensure that you are using the specific versions of tensorflow and keras below by running the following commands in script**
+### **!pip install keras==2.15.0**
+### **tensorflow==2.15.0**
 
 
 #### **Gait Signatures Script 1: Train Model Architectures.ipynb** 
