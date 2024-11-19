@@ -13,6 +13,11 @@
 
 ## Python Code  
 
+### Please ensure that you are using the specific versions of tensorflow and keras below by running the following commands in script
+### !pip install keras==2.15.0
+### tensorflow==2.15.0
+
+
 #### **Gait Signatures Script 1: Train Model Architectures.ipynb** 
 #### **Gait Signatures Script 2: Extract Internal Parameters.ipynb** 
 #### **Gait Signatures Script 3: Generate Gait Signatures.ipynb** 
