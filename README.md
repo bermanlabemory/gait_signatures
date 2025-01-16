@@ -17,6 +17,14 @@
 ### **!pip install keras==2.15.0**
 ### **tensorflow==2.15.0**
 
+### **Versions for other packages used in this code base**
+* Scikit-learn: 1.2.2
+* Matplotlib: 3.7.1
+* Pandas: 1.5.3
+* NumPy: 1.25.2
+* SciPy: 1.11.4
+* CSV: 1.0
+
 
 #### **Gait Signatures Script 1: Train Model Architectures.ipynb** 
 #### **Gait Signatures Script 2: Extract Internal Parameters.ipynb** 
